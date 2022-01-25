@@ -1,0 +1,437 @@
+[
+  {
+    "server": "131.255.4.140",
+    "server_port": 8389,
+    "password": "UHu5NzfXjuur52h9",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Argentina",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "170.130.31.114",
+    "server_port": 8389,
+    "password": "4W2SJmdKUMJjjkVfRDdh",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Dalas.usa",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "66.55.92.75",
+    "server_port": 8389,
+    "password": "6g8n89NARNcuTH2XvUtZ",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "Los Angeles.USA",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "170.130.15.34",
+    "server_port": 8389,
+    "password": "q8gsJVLZ5eYXU3uhmnbH",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "phoenix.USA",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "169.62.109.140",
+    "server_port": 8389,
+    "password": "74cf7gsXJgd9Z4MAW42L",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "sanjose.USA",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "177.54.152.89",
+    "server_port": 8389,
+    "password": "2GWsqE7Gr3nRMuuQZfFa",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "saopaulo.Brazil",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "104.140.21.178",
+    "server_port": 8389,
+    "password": "4kUSnsELPgwDFqkrnPqL",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "seattle.USA",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "184.75.208.234",
+    "server_port": 8389,
+    "password": "47GH3wQRw7V4Zhd35bFs",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "toronto.Canada",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.51.134.210",
+    "server_port": 8389,
+    "password": "mTrN2fMYeWJwrkWpTnL2",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "athens🇬🇷",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "86.105.25.162",
+    "server_port": 8389,
+    "password": "gKDDFZyBmBH5Ru46xBAK",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "bucharest.🇷🇴",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.212.149.152",
+    "server_port": 8389,
+    "password": "SxFvGWWUtEjyQnGbggq2",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "helsinki🇫🇮",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "37.19.218.197",
+    "server_port": 8389,
+    "password": "Mx6DztQqZb7j34FdWjER",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "kyiv.🇺🇦",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "185.90.57.152",
+    "server_port": 8389,
+    "password": "qSnstpCypymLvPeyLRqf",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "lisbon🇵🇹",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "5.253.204.194",
+    "server_port": 8389,
+    "password": "qLzS7DF9qRYxJTHfckhC",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "luxembourg🇱🇺",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.152.183.242",
+    "server_port": 8389,
+    "password": "r4MP5DzDNmAqbBHzbSXw",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "madrid🇪🇸",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "217.138.197.138",
+    "server_port": 8389,
+    "password": "dsHq7JmRFhSkvxzCuMFy",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "milan🇮🇹",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "103.108.94.226",
+    "server_port": 8389,
+    "password": "bFfLrvbG3GjjNSxKBWt5",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "auckland🇲🇸",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.214.152.194",
+    "server_port": 8389,
+    "password": "t8BFcaM3GSCw5FHbph27",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "hanoi🇻🇳",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.37.55",
+    "server_port": 8389,
+    "password": "tjwRqQvteAjt3xFmbZTA",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "hongkong🇭🇰",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "45.133.181.58",
+    "server_port": 8389,
+    "password": "qzj5NqakK4YvYYU87eFF",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "jakarta🇮🇩",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.214.125.106",
+    "server_port": 8389,
+    "password": "Zq4srheW4eeqMfGeWMTG",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "manila.🇸🇽",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "116.206.230.130",
+    "server_port": 8389,
+    "password": "zaNeDgu9mZKpEMTHQJy8",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "melbourne🇦🇺",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "169.56.83.206",
+    "server_port": 8389,
+    "password": "V9eSCwLbC8xS97e3Brm3",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "seoul.🇰🇷",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "223.25.246.4",
+    "server_port": 8389,
+    "password": "w4GUD28Bw9uCMdbc2pqA",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "kualalumpur.🇲🇾",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.38.144",
+    "server_port": 8389,
+    "password": "gTYdduTTEBBdVZ4LcBnT",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "singapore.🇸🇬",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "82.202.220.242",
+    "server_port": 8389,
+    "password": "Kw6hMXQ2Z7ey7mf2Uqyr",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "petersburg.🇷🇺",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "46.102.153.106",
+    "server_port": 8389,
+    "password": "dsHq7JmRFhSkvxzCuMFy",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "sydney.🇦🇺",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "188.214.106.98",
+    "server_port": 8389,
+    "password": "cNbqVVyUfbJFZ6S8EgRH",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "taipei.🇹🇼",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  },
+  {
+    "server": "84.17.34.8",
+    "server_port": 8389,
+    "password": "FuynHKjkzhBnmcLpaLKm",
+    "method": "chacha20-ietf-poly1305",
+    "remarks": "tokyo.🇯🇵",
+    "route": "all",
+    "remote_dns": "dns.google",
+    "ipv6": false,
+    "metered": false,
+    "proxy_apps": {
+      "enabled": false
+    },
+    "udpdns": false
+  }
+]
