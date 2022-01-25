@@ -4,7 +4,7 @@
     "server_port": 8389,
     "password": "UHu5NzfXjuur52h9",
     "method": "chacha20-ietf-poly1305",
-    "remarks": "Argentina",
+    "remarks": "kir",
     "route": "all",
     "remote_dns": "dns.google",
     "ipv6": false,
